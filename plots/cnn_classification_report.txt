@@ -1,0 +1,9 @@
+                precision    recall  f1-score   support
+
+Bacterial_spot       0.90      0.94      0.92       732
+     Leaf_Mold       0.95      0.83      0.89       739
+       healthy       0.92      0.99      0.95       806
+
+      accuracy                           0.92      2277
+     macro avg       0.92      0.92      0.92      2277
+  weighted avg       0.92      0.92      0.92      2277
